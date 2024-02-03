@@ -1,0 +1,8 @@
+A: geen tickets
+B: 1 student in weekend
+C: 3 studenten in weekend
+D: 3 studenten op maandag
+F: 1 niet student met premiumstoel
+G: 1 niet student zonder premiumstoel
+H  8 niet studenten met premiumstoel
+I: 8 niet studenten zonder premiumstoel
